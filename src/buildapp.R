@@ -2,46 +2,46 @@ suppressPackageStartupMessages(library(casecountapp))
 
 sources_country <- list(
   list(source_id = "JHU", admin_level = 0,
-    file = "https://raw.githubusercontent.com/covid-open-data/xform-casecount-jhu/master/output/admin0/all.csv"),
+    file = "https://raw.githubusercontent.com/WorldHealthOrganization/xform-covid-casecount-jhu/master/output/admin0/all.csv"),
   list(source_id = "WHO", admin_level = 0,
-    file = "https://raw.githubusercontent.com/covid-open-data/xform-casecount-who/master/output/admin0/all.csv"),
+    file = "https://raw.githubusercontent.com/WorldHealthOrganization/xform-covid-casecount-who/master/output/admin0/all.csv"),
   list(source_id = "ECDC", admin_level = 0,
-    file = "https://raw.githubusercontent.com/covid-open-data/xform-casecount-ecdc/master/output/admin0/all.csv"),
+    file = "https://raw.githubusercontent.com/WorldHealthOrganization/xform-covid-casecount-ecdc/master/output/admin0/all.csv"),
   list(source_id = "WOM", admin_level = 0,
-    file = "https://raw.githubusercontent.com/covid-open-data/xform-casecount-wom/master/output/admin0/all.csv")
+    file = "https://raw.githubusercontent.com/WorldHealthOrganization/xform-covid-casecount-wom/master/output/admin0/all.csv")
 )
 
 sources_continent <- list(
   list(source_id = "JHU", admin_level = "continent",
-    file = "https://raw.githubusercontent.com/covid-open-data/xform-casecount-jhu/master/output/continents.csv"),
+    file = "https://raw.githubusercontent.com/WorldHealthOrganization/xform-covid-casecount-jhu/master/output/continents.csv"),
   list(source_id = "WHO", admin_level = "continent",
-    file = "https://raw.githubusercontent.com/covid-open-data/xform-casecount-who/master/output/continents.csv"),
+    file = "https://raw.githubusercontent.com/WorldHealthOrganization/xform-covid-casecount-who/master/output/continents.csv"),
   list(source_id = "ECDC", admin_level = "continent",
-    file = "https://raw.githubusercontent.com/covid-open-data/xform-casecount-ecdc/master/output/continents.csv"),
+    file = "https://raw.githubusercontent.com/WorldHealthOrganization/xform-covid-casecount-ecdc/master/output/continents.csv"),
   list(source_id = "WOM", admin_level = "continent",
-    file = "https://raw.githubusercontent.com/covid-open-data/xform-casecount-wom/master/output/continents.csv")
+    file = "https://raw.githubusercontent.com/WorldHealthOrganization/xform-covid-casecount-wom/master/output/continents.csv")
 )
 
 sources_who_region <- list(
   list(source_id = "JHU", admin_level = "who_region",
-    file = "https://raw.githubusercontent.com/covid-open-data/xform-casecount-jhu/master/output/who_regions.csv"),
+    file = "https://raw.githubusercontent.com/WorldHealthOrganization/xform-covid-casecount-jhu/master/output/who_regions.csv"),
   list(source_id = "WHO", admin_level = "who_region",
-    file = "https://raw.githubusercontent.com/covid-open-data/xform-casecount-who/master/output/who_regions.csv"),
+    file = "https://raw.githubusercontent.com/WorldHealthOrganization/xform-covid-casecount-who/master/output/who_regions.csv"),
   list(source_id = "ECDC", admin_level = "who_region",
-    file = "https://raw.githubusercontent.com/covid-open-data/xform-casecount-ecdc/master/output/who_regions.csv"),
+    file = "https://raw.githubusercontent.com/WorldHealthOrganization/xform-covid-casecount-ecdc/master/output/who_regions.csv"),
   list(source_id = "WOM", admin_level = "who_region",
-    file = "https://raw.githubusercontent.com/covid-open-data/xform-casecount-wom/master/output/who_regions.csv")
+    file = "https://raw.githubusercontent.com/WorldHealthOrganization/xform-covid-casecount-wom/master/output/who_regions.csv")
 )
 
 sources_global <- list(
   list(source_id = "JHU", admin_level = "global",
-    file = "https://raw.githubusercontent.com/covid-open-data/xform-casecount-jhu/master/output/global.csv"),
+    file = "https://raw.githubusercontent.com/WorldHealthOrganization/xform-covid-casecount-jhu/master/output/global.csv"),
   list(source_id = "WHO", admin_level = "global",
-    file = "https://raw.githubusercontent.com/covid-open-data/xform-casecount-who/master/output/global.csv"),
+    file = "https://raw.githubusercontent.com/WorldHealthOrganization/xform-covid-casecount-who/master/output/global.csv"),
   list(source_id = "ECDC", admin_level = "global",
-    file = "https://raw.githubusercontent.com/covid-open-data/xform-casecount-ecdc/master/output/global.csv"),
+    file = "https://raw.githubusercontent.com/WorldHealthOrganization/xform-covid-casecount-ecdc/master/output/global.csv"),
   list(source_id = "WOM", admin_level = "global",
-    file = "https://raw.githubusercontent.com/covid-open-data/xform-casecount-wom/master/output/global.csv")
+    file = "https://raw.githubusercontent.com/WorldHealthOrganization/xform-covid-casecount-wom/master/output/global.csv")
 )
 
 timestamp <- Sys.time()
