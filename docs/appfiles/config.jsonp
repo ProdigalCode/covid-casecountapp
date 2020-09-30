@@ -1,0 +1,17 @@
+__loadTrscopeConfig__4d6b895c({
+  "display_base": "displays",
+  "data_type": "jsonp",
+  "cog_server": {
+    "type": "jsonp",
+    "info": {
+      "base": "displays"
+    }
+  },
+  "split_layout": false,
+  "has_legend": false,
+  "require_token": false,
+  "disclaimer": {
+    "cols": 2,
+    "text": "<p>By using this dashboard, you are agreeing to its <a href='EIOS_COVID_Case_Count_Dashboard_Disclaimer.pdf' target='_blank'>Disclaimer and Terms of Use.<\/a><\/p><p>The Epidemic Intelligence from Open Sources (EIOS) is a collaborative effort across public health organisations to facilitate the early detection of and response to potential health threats using publicly available information. You can read more about EIOS <a href='https://www.who.int/eios' target='_blank' rel='noopener noreferrer'>here<\/a>.<\/p><p>This dashboard is not a comprehensive representation of all of the content that WHO and the EIOS community are aware of and assessing and is for general information only.<\/p>"
+  }
+})
