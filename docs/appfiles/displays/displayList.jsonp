@@ -2,45 +2,45 @@ __loadDisplayList__4d6b895c([
   {
     "group": "common",
     "name": "Continents",
-    "desc": "Covid-19 cases and deaths by continent - updated 2020-11-05 08:12 UTC",
+    "desc": "Covid-19 cases and deaths by continent - updated 2020-11-05 09:10 UTC",
     "n": 6,
     "order": 2,
     "height": 416,
     "width": 500,
-    "updated": "2020-11-05 08:12:30",
+    "updated": "2020-11-05 09:10:58",
     "keySig": "90162454de1faeefe7ed338cd5ebe6c2"
   },
   {
     "group": "common",
     "name": "Countries_and_Territories",
-    "desc": "Covid-19 cases and deaths by country - updated 2020-11-05 08:12 UTC",
+    "desc": "Covid-19 cases and deaths by country - updated 2020-11-05 09:10 UTC",
     "n": 223,
     "order": 4,
     "height": 416,
     "width": 500,
-    "updated": "2020-11-05 08:13:48",
+    "updated": "2020-11-05 09:12:40",
     "keySig": "8b5f2b8936cea16f7b8df0542e38976b"
   },
   {
     "group": "common",
     "name": "Global",
-    "desc": "Covid-19 cases and deaths globally - updated 2020-11-05 08:12 UTC",
+    "desc": "Covid-19 cases and deaths globally - updated 2020-11-05 09:10 UTC",
     "n": 1,
     "order": 1,
     "height": 416,
     "width": 500,
-    "updated": "2020-11-05 08:12:26",
+    "updated": "2020-11-05 09:10:53",
     "keySig": "1a11b78e20aa331276d29fe67efe295f"
   },
   {
     "group": "common",
     "name": "WHO_Regions",
-    "desc": "Covid-19 cases and deaths by WHO Region - updated 2020-11-05 08:12 UTC",
+    "desc": "Covid-19 cases and deaths by WHO Region - updated 2020-11-05 09:10 UTC",
     "n": 6,
     "order": 3,
     "height": 416,
     "width": 500,
-    "updated": "2020-11-05 08:12:33",
+    "updated": "2020-11-05 09:11:03",
     "keySig": "86b31154172e709525f493e4ca9dba13"
   }
 ])
